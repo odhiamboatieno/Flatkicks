@@ -235,7 +235,7 @@
         <div class="container">
             <div class="col-lg-6 col-md-6 col-sm-6 wow fadeInUp">
                 <p class="title">contacts</p>
-                <p><strong>Phone:</strong>0716312183,  0769427507</p>
+                <p><strong>Phone:</strong>0797049288,  0700207417</p>
                 <p><strong>Hours:</strong> 8am-5pm  Monday-Friday;   8am-1pm Saturday</p>
                <p><strong>Postal Code:</strong> 00600 Nairobi</a></p>
                 <p><strong>E-mail:</strong> <a href="#">info@flatkicks.co.ke</a></p>
