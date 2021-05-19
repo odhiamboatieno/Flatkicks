@@ -271,7 +271,7 @@
 <!--footer-->
 <footer> 
     <div class="container">
-           <p class="wow fadeInUp"> &copy;2019  Flatkicks Powered By<em id="copyright-year"></em>. <a href="tirotech.co.ke">Tiro Tech Solutions</a></p>
+           <p class="wow fadeInUp"> &copy;2019  Flatkicks Powered By<em id="copyright-year"></em>. <a href="seentechs.com">Seen Technologies</a></p>
     </div>
     </div>
   <!-- {%FOOTER_LINK} -->
